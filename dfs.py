@@ -1,3 +1,4 @@
+# -*- coding: UTF-8 -*-
 import numpy
 
 def dfs(A_list,head,goal,stack,path,depth):
